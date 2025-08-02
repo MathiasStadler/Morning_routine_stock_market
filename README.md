@@ -51,7 +51,9 @@ I never plan far ahead. Carpe diam [![alt text][1]](https://www.nyse.com/market-
 - yahoo_finance_api - crates.io: Rust Package Registry [![alt text][1]](https://crates.io/crates/yahoo_finance_api)
 - ta-rs: Technical analysis library for Rust language [![alt text][1]](https://github.com/greyblake/ta-rs/tree/master)
 - ta-rs-improved: Technical analysis library for Rust language [![alt text][1]](https://github.com/austin-starks/ta-rs-improved)
-- weiter Plot Interactive chart of Live Options Chain Data Using Python | Plotly (2021) [![alt text][1]](https://www.youtube.com/watch?app=desktop&v=HA9jAwRKSCE)
+- Plot Interactive chart of Live Options Chain Data Using Python | Plotly (2021) [![alt text][1]](https://www.youtube.com/watch?app=desktop&v=HA9jAwRKSCE)
+- StockData - Free Real-time, Intraday, Historical Stock Data API - stockdata.org [![alt text][1]](https://www.stockdata.org)
+
 <!-- Link sign - Don't Found a better way :-( - You know a better method? - send me a email -->
 [1]: ./img/link_symbol.svg
 <!-- keep the format -->
