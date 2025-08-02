@@ -4,6 +4,7 @@
         "Intraday",
         "plotly",
         "Probabilitycone",
-        "stockdata"
+        "stockdata",
+        "stooq"
     ]
 }
