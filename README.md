@@ -12,7 +12,7 @@
 - First step without Ki support
 <!-- keep the format -->
 ## Target
-!-- keep the format -->
+<!-- keep the format -->
 - Market overview
 - Market situation
 - Market Direction / Development
@@ -35,7 +35,12 @@
   - FED Board of Governors of the Federal Reserve System [![alt text][1]](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
   - ECB Key interest rates  [![alt text][1]](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html)
 - Change in interest rates - last 25 years [![alt text][1]](https://duckduckgo.com/?q=Change+in+interest+rates&t=vivaldi&atb=v484-1&ia=web)
-- Arbeitsmarktdaten
+- Labour market data - Arbeitsmarktdaten
+- Economic and Labor Market Data [![alt text][1]](https://www.dol.gov/agencies/eta/performance/labor-market-data)
+- Numbers of orders with volume
+- Big/small orders stock /option /currents
+- Volume current sell/buy
+- Probabilitycone [![alt text][1]](https://de.tradingview.com/scripts/probabilitycone/)
 I never plan far ahead. Carpe diam
 
 <!-- Link sign - Don't Found a better way :-( - You know a better method? - send me a email -->
