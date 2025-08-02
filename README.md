@@ -41,8 +41,15 @@
 - Big/small orders stock /option /currents
 - Volume current sell/buy
 - Probabilitycone [![alt text][1]](https://de.tradingview.com/scripts/probabilitycone/)
-I never plan far ahead. Carpe diam
+- Cboe Open-Close Volume Summary [![alt text][1]]( https://datashop.cboe.com/cboe-options-open-close-volume-summary)
+- NYSE Options Open-Close Volume Summary [![alt text][1]](https://www.nyse.com/market-data/historical/open-close-volume-summary)
+I never plan far ahead. Carpe diam [![alt text][1]](https://www.nyse.com/market-data/historical/open-close-volume-summary)
+- yt - OPEN INTEREST trading strategy for Beginner • How to use Option chain, VOLUME, PCR RATIO, in Trading [![alt text][1]](https://www.youtube.com/watch?v=uVbSDt0-ZTQ)
+- Rustic Data: Data Visualization with Plotters - Part 1 | Towards Data Science [![alt text][1]](https://towardsdatascience.com/rustic-data-data-visualization-with-plotters-part-1-7a34b6f4a603/)
+- "Sliders" in "Rust" - Plotly  [![alt text][1]](https://duckduckgo.com/?q=%22Sliders%22+in+%22Rust%22+-+Plotly&t=vivaldi&atb=v484-1&ia=web)
+- plotly/plotly.rs: Plotly for Rust[![alt text][1]]( https://github.com/plotly/plotly.rs/tree/main)
 
+- weiter Plot Interactive chart of Live Options Chain Data Using Python | Plotly (2021) [![alt text][1]](https://www.youtube.com/watch?app=desktop&v=HA9jAwRKSCE)
 <!-- Link sign - Don't Found a better way :-( - You know a better method? - send me a email -->
 [1]: ./img/link_symbol.svg
 <!-- keep the format -->
