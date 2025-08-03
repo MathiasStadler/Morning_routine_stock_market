@@ -54,6 +54,11 @@ I never plan far ahead. Carpe diam [![alt text][1]](https://www.nyse.com/market-
 - Plot Interactive chart of Live Options Chain Data Using Python | Plotly (2021) [![alt text][1]](https://www.youtube.com/watch?app=desktop&v=HA9jAwRKSCE)
 - StockData - Free Real-time, Intraday, Historical Stock Data API - stockdata.org [![alt text][1]](https://www.stockdata.org)
 - Free Historical Market Data - stooq.com [![alt text][1]](https://stooq.com/db/h/)
+- IBKR FYI: Earnings Notification
+- US Verbraucherpreise
+- EUR/USD/YEN/Japan
+- Sektoren Cahrt alle Stock , geleiche Laufzeit
+-
 <!-- Link sign - Don't Found a better way :-( - You know a better method? - send me a email -->
 [1]: ./img/link_symbol.svg
 <!-- keep the format -->
