@@ -13,6 +13,13 @@
 <!-- keep the format -->
 ## Target
 <!-- keep the format -->
+- Daily
+- Weekly
+- Monthly
+- Quarterly
+- Yearly
+- 10 Years
+- and so on
 - Market overview
 - Market situation
 - Market Direction / Development
@@ -55,10 +62,21 @@ I never plan far ahead. Carpe diam [![alt text][1]](https://www.nyse.com/market-
 - StockData - Free Real-time, Intraday, Historical Stock Data API - stockdata.org [![alt text][1]](https://www.stockdata.org)
 - Free Historical Market Data - stooq.com [![alt text][1]](https://stooq.com/db/h/)
 - IBKR FYI: Earnings Notification
-- US Verbraucherpreise
+- US Verbraucherpreise - USA Verbraucherpreisindex (VPI) saisonbereinigt ![alt text][1]](https://de.investing.com/economic-calendar/cpi-index,-s.a-1889)
+  - consumer prices
+  - retail prices
+  - consumer price
+
 - EUR/USD/YEN/Japan
-- Sektoren Cahrt alle Stock , geleiche Laufzeit
--
+- Sektoren Chart alle Stock , geleiche Laufzeit
+- Die Arbeitslosenquote Vollbeschäftigung
+- . Der Preisindex für persönliche Konsumausgaben (PCE) zog im Juni spürbar an. Die Kerninflation – ohne Energie und Nahrungsmittel – stieg auf 2,8 Prozent. „Die Effekte der Zölle schlagen nun messbar in den Verbraucherpreisen durch“, erklärt Art Hogan von B. Riley
+- 10 Jährige Staatsanleihen
+- Verbrauchervertrauen
+- US-Verbraucherpreise - https://duckduckgo.com/?q=US-Verbraucherpreise&t=vivaldi&atb=v484-1&ia=web
+- Bruttoinlandsprodukt der USA - https://duckduckgo.com/?q=Bruttoinlandsprodukt+der+USA&t=vivaldi&atb=v484-1&ia=web
+- Diese großen Orders kommen definitiv von institutionellen Anlegern
+
 <!-- Link sign - Don't Found a better way :-( - You know a better method? - send me a email -->
 [1]: ./img/link_symbol.svg
 <!-- keep the format -->
